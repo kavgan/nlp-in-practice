@@ -4,18 +4,17 @@
 - [OpinRank Dataset](reviews_data.txt.gz) - this is the original dataset
 - [Working scripts](scripts/)
 
-# How to re-run the jupyter notebook
-
+# How to use the jupyter notebook
+From the command line, first, clone this repo.
 ```
 git clone <this repo url>
 ```
-
+Next, switch to the word2vec directory of this repo.
 ```
 cd  /path-to-cloned-repo/data-science/word2vec
 ```
-
+Then run jupyter notebook
 ```
 jupyter notebook
 ```
-
-Now, select Word2Vec.ipynb and you can re-run each cell. 
+Now, select Word2Vec.ipynb, sip a cup of coffee and enjoy! You can now re-run the cells.
