@@ -4,7 +4,7 @@
 - [OpinRank Dataset](reviews_data.txt.gz) - this is the original dataset
 - [Working scripts](scripts/)
 
-# How to re-use the Word2Vec.ipynb notebook
+# Running the `Word2Vec.ipynb` notebook
 From the command line, first, clone this repo.
 ```
 git clone <this repo url>
