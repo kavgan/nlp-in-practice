@@ -1,7 +1,7 @@
 # Word2Vec Tutorial
 
 - [Notebook](Word2Vec.ipynb)
-- [OpinRank Dataset](reviews_data.txt.gz) - this is the original dataset
+- [OpinRank Dataset](reviews_data.txt.gz) - this is the [original dataset](http://kavita-ganesan.com/entity-ranking-data/)
 - [Working scripts](scripts/)
 
 # Running the `Word2Vec.ipynb` notebook
