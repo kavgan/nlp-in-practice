@@ -50,36 +50,50 @@ if __name__ == '__main__':
     model.train(documents, total_examples=len(documents), epochs=10)
 
     w1 = "dirty"
-    model.wv.most_similar(positive=w1)
+    print("Most similar to {0}".format(w1), model.wv.most_similar(positive=w1))
 
     # look up top 6 words similar to 'polite'
     w1 = ["polite"]
-    model.wv.most_similar(positive=w1, topn=6)
+    print(
+        "Most similar to {0}".format(w1),
+        model.wv.most_similar(
+            positive=w1,
+            topn=6))
 
     # look up top 6 words similar to 'france'
     w1 = ["france"]
-    model.wv.most_similar(positive=w1, topn=6)
+    print(
+        "Most similar to {0}".format(w1),
+        model.wv.most_similar(
+            positive=w1,
+            topn=6))
 
     # look up top 6 words similar to 'shocked'
     w1 = ["shocked"]
-    model.wv.most_similar(positive=w1, topn=6)
+    print(
+        "Most similar to {0}".format(w1),
+        model.wv.most_similar(
+            positive=w1,
+            topn=6))
 
     # get everything related to stuff on the bed
     w1 = ["bed", 'sheet', 'pillow']
     w2 = ['couch']
-    model.wv.most_similar(positive=w1, negative=w2, topn=10)
+    print(
+        "Most similar to {0}".format(w1),
+        model.wv.most_similar(
+            positive=w1,
+            negative=w2,
+            topn=10))
 
     # similarity between two different words
-    model.wv.similarity(w1="dirty", w2="smelly")
+    print("Similarity between 'dirty' and 'smelly'",
+          model.wv.similarity(w1="dirty", w2="smelly"))
 
     # similarity between two identical words
-    model.wv.similarity(w1="dirty", w2="dirty")
+    print("Similarity between 'dirty' and 'dirty'",
+          model.wv.similarity(w1="dirty", w2="dirty"))
 
     # similarity between two unrelated words
-    model.wv.similarity(w1="dirty", w2="clean")
-
-    # Which one is the odd one out in this list?
-    model.wv.doesnt_match(["cat", "dog", "france"])
-
-    # Which one is the odd one out in this list?
-    model.wv.doesnt_match(["bed", "pillow", "duvet", "shower"])
+    print("Similarity between 'dirty' and 'clean'",
+          model.wv.similarity(w1="dirty", w2="clean"))
