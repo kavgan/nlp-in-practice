@@ -1,2 +1,6 @@
-# data-science
-Working examples of data-science approaches
+# Data Science Tutorials
+
+- [Word2Vec - Full Working Example](word2vec/)
+
+# Contact 
+This repository is maintained by [Kavita Ganesan](www.kavita-ganesan.com). Please contact me directly if you have questions.
