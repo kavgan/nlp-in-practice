@@ -49,6 +49,9 @@ if __name__ == '__main__':
         workers=10)
     model.train(documents, total_examples=len(documents), epochs=10)
 
+    # save only the word vectors
+    model.wv.save(os.path.join(abspath, "../vectors/default"))
+
     w1 = "dirty"
     print("Most similar to {0}".format(w1), model.wv.most_similar(positive=w1))
 
@@ -70,6 +73,14 @@ if __name__ == '__main__':
 
     # look up top 6 words similar to 'shocked'
     w1 = ["shocked"]
+    print(
+        "Most similar to {0}".format(w1),
+        model.wv.most_similar(
+            positive=w1,
+            topn=6))
+
+    # look up top 6 words similar to 'shocked'
+    w1 = ["beautiful"]
     print(
         "Most similar to {0}".format(w1),
         model.wv.most_similar(
