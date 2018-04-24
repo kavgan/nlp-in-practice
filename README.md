@@ -1,5 +1,5 @@
 # Data Science Tutorials
-
+- Phrase2Vec - Embeddings for phrases [ [article](http://kavita-ganesan.com/how-to-generate-phrase-embeddings-using-word2vec-in-3-easy-steps/) ]
 - [Word2Vec - Full Working Example](word2vec/) [ [article](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/) ]
 - [Reading files and word count with Spark](spark_wordcount/) [ [article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) ]
 
