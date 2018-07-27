@@ -9,7 +9,7 @@
 ```
 git clone <this repo url>
 ```
-2. Next, switch to the tf-df directory of this repo.
+2. Next, switch to the tf-idf directory of this repo.
 ```
 cd  /<path-to-cloned-repo>/data-science/tf-idf
 ```
