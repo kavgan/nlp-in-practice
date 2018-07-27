@@ -4,7 +4,7 @@
 - [Stackoverflow Dataset Used for this Tutorial](data/)
 
 
-# Running the Word2Vec Tutorial Notebook
+# Running the TF-IDF Keyword Extraction Tutorial Notebook
 1. From the command line, first, clone this repo.
 ```
 git clone <this repo url>
