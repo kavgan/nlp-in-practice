@@ -2,6 +2,7 @@
 
 - [TF-IDF Keyword Extraction Tutorial Notebook](Keyword%20Extraction%20with%20TF-IDF%20and%20SKlearn.ipynb)
 - [Stackoverflow Dataset Used for this Tutorial](data/)
+- [Full Tutorial Article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2NsP9hKids)
 
 
 # Running the TF-IDF Keyword Extraction Tutorial Notebook
