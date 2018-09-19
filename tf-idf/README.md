@@ -12,7 +12,7 @@ git clone <this repo url>
 ```
 2. Next, switch to the tf-idf directory of this repo.
 ```
-cd  /<path-to-cloned-repo>/nlp-text-mining-working-examples/tf-idf
+cd  nlp-text-mining-working-examples/tf-idf
 ```
 3. Then, run jupyter notebook
 ```
