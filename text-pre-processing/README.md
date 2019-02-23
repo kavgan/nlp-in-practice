@@ -1,16 +1,16 @@
 # Navigate
 
-- [Text pre-procesing article](tbd)
+- [Text preprocesing article](tbd)
 
 
-# Running the Text Pre-Processing Tutorial Notebook
+# Running the Text Preprocessing Tutorial Notebook
 
 1. From the command line, first, clone this repo.
 ```
 git clone <this repo url>
 ```
 
-2. Next, switch to the text pre-processing directory of this repo.
+2. Next, switch to the text preprocessing directory of this repo.
 ```
 cd  nlp-text-mining-working-examples/text-pre-processing
 ```
@@ -19,4 +19,4 @@ cd  nlp-text-mining-working-examples/text-pre-processing
 ```
 jupyter notebook
 ```
-4. Select `Text Pre-Processing Examples.ipynb`, now you can re-run the cells and re-use the code!
+4. Select `Text Preprocessing Examples.ipynb`, now you can re-run the cells and re-use the code!
