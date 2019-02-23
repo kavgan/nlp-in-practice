@@ -9,6 +9,8 @@
 | [Extracting Keywords with TF-IDF and SKLearn](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) |   
 | [Text preprocessing](text-pre-processing) | [text preprocessing article](tbd) | 
 
+# Resources
+- For more articles, please [see this list](http://kavita-ganesan.com/kavitas-tutorials/#.WvIizNMvyog)
 
 # Contact 
 This repository is maintained by [Kavita Ganesan](http://www.kavita-ganesan.com/about-me). Please contact me directly if you have questions.
