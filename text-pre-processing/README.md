@@ -1,5 +1,5 @@
 # Navigate
-
+- [Text Preprocessing Notebook](Text%20Preprocessing%20Examples.ipynb)
 - [Text preprocesing article](tbd)
 
 
