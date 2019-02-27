@@ -7,7 +7,7 @@
 | [Word2Vec - Full Working Example](word2vec/)  | [word2vec article](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/) |   
 | [Reading files and word count with Spark](spark_wordcount/) | [spark article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) |   
 | [Extracting Keywords with TF-IDF and SKLearn](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) |   
-| [Text preprocessing](text-pre-processing) | [text preprocessing article](tbd) | 
+| [Text Preprocessing](text-pre-processing) | [text preprocessing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU) | 
 
 # Resources
 - For more articles, please [see this list](http://kavita-ganesan.com/kavitas-tutorials/#.WvIizNMvyog)
