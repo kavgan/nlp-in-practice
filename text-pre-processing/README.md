@@ -12,7 +12,7 @@ git clone <this repo url>
 
 2. Next, switch to the text preprocessing directory of this repo.
 ```
-cd  nlp-text-mining-working-examples/text-pre-processing
+cd  nlp-in-practice/text-pre-processing
 ```
 
 3. Then, run jupyter notebook
