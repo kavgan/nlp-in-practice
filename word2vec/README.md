@@ -12,7 +12,7 @@ git clone <this repo url>
 ```
 2. Next, switch to the word2vec directory of this repo.
 ```
-cd  nlp-text-mining-working-examples/word2vec
+cd  nlp-in-practice/word2vec
 ```
 3. Then, run jupyter notebook
 ```
