@@ -1,6 +1,6 @@
 # Navigate
-
-- [Text preprocesing article](tbd)
+- [Text Preprocessing Notebook](Text%20Preprocessing%20Examples.ipynb)
+- [Text preprocesing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU)
 
 
 # Running the Text Preprocessing Tutorial Notebook
@@ -12,7 +12,7 @@ git clone <this repo url>
 
 2. Next, switch to the text preprocessing directory of this repo.
 ```
-cd  nlp-text-mining-working-examples/text-pre-processing
+cd  nlp-in-practice/text-pre-processing
 ```
 
 3. Then, run jupyter notebook
