@@ -1,16 +1,21 @@
-# Text Mining / NLP Tutorials
+# NLP-IN-PRACTICE 
+Use these NLP, Text Mining and Machine Learning code samples and tools to solve real world text data problems.
 
-| Task/Code | Article  |   |
-|---|---|---|
-| [Phrase2Vec - Embeddings for phrases](https://github.com/kavgan/phrase-at-scale)   | [phrase2vec article](http://kavita-ganesan.com/how-to-generate-phrase-embeddings-using-word2vec-in-3-easy-steps/)   |   
-| [Word Cloud for Data Scientists](https://github.com/kavgan/word_cloud)  |  [word_cloud article](http://kavita-ganesan.com/word-cloud-for-data-scientists/#.W867cBNKj65) |   
-| [Word2Vec - Full Working Example](word2vec/)  | [word2vec article](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/) |   
-| [Reading files and word count with Spark](spark_wordcount/) | [spark article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) |   
-| [Extracting Keywords with TF-IDF and SKLearn](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) |   
-| [Text Preprocessing](text-pre-processing) | [text preprocessing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU) | 
+## Notebooks / Source
+
+Links in the first column take you to the subfolder/repository with the source code. 
+
+| Task | Article  | Source Type  |
+|---|---| ---|
+| [Phrase2Vec - Embeddings for phrases](https://github.com/kavgan/phrase-at-scale)   | [phrase2vec article](http://kavita-ganesan.com/how-to-generate-phrase-embeddings-using-word2vec-in-3-easy-steps/)   | python script  
+| [Word Cloud for Data Scientists](https://github.com/kavgan/word_cloud)  |  [word_cloud article](http://kavita-ganesan.com/word-cloud-for-data-scientists/#.W867cBNKj65) | python script + notebook  
+| [Word2Vec - Full Working Example](word2vec/)  | [word2vec article](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/) | notebook  
+| [Reading files and word count with Spark](spark_wordcount/) | [spark article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) | python script     
+| [Extracting Keywords with TF-IDF and SKLearn](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) | notebook  
+| [Text Preprocessing](text-pre-processing) | [text preprocessing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU) | notebook
 
 # Resources
 - For more articles, please [see this list](http://kavita-ganesan.com/kavitas-tutorials/#.WvIizNMvyog)
 
 # Contact 
-This repository is maintained by [Kavita Ganesan](http://www.kavita-ganesan.com/about-me). Please contact me directly if you have questions.
+This repository is maintained by Kavita Ganesan. Please contact me directly if you have questions.
