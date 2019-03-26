@@ -1,9 +1,9 @@
-# Navigate
+## Navigate
 
-- [Notebook demonstrating use of pre-trained embeddings](Pre-trained embeddings.ipynb)
+-[Notebook demonstrating use of pre-trained embeddings](Pre-trained embeddings.ipynb)
 
 
-# Running the Pre-trained Embeddings Notebook
+## Running the Pre-trained Embeddings Notebook
 1. From the command line, first, clone this repo.
 ```
 git clone <this repo url>
