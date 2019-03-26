@@ -1,6 +1,8 @@
+Learn how to use pre-trained GloVe/Word2Vec embeddings with Gensim. Its super simple. 
+
 ## Navigate
 
--[Notebook demonstrating use of pre-trained embeddings](Pre-trained embeddings.ipynb)
+- [Notebook demonstrating use of pre-trained embeddings with gensim](Pre-trained%20embeddings.ipynb)
 
 
 ## Running the Pre-trained Embeddings Notebook
