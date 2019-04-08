@@ -13,6 +13,8 @@ Links in the first column take you to the subfolder/repository with the source c
 | [Reading files and word count with Spark](spark_wordcount/) | [spark article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) | python script | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice)     
 | [Extracting Keywords with TF-IDF and SKLearn (with dataset)](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice)  
 | [Text Preprocessing](text-pre-processing) | [text preprocessing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU) | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
+| [TFIDFTransformer vs. TFIDFVectorizer](tfidftransformer/) | | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
+
 
 # Resources
 - For more articles, please [see this list](http://kavita-ganesan.com/kavitas-tutorials/#.WvIizNMvyog)
