@@ -1,4 +1,4 @@
-Difference between scikit's `tfidftransformer` and `tfidfvectorizer`. 
+Usage examples of scikit's `tfidftransformer` and `tfidfvectorizer` and the differences between the two. 
 
 # Navigate
 - [TFIDFTransformer vs. TFIDFVectorizer Notebook](https://github.com/kavgan/nlp-in-practice/blob/master/tfidftransformer/TFIDFTransformer%20vs.%20TFIDFVectorizer.ipynb)
