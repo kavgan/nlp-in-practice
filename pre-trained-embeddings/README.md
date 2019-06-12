@@ -2,7 +2,9 @@ Learn how to use pre-trained GloVe/Word2Vec embeddings with Gensim. Its super si
 
 ## Navigate
 
+- [Pre-trained word embeddings article](http://kavita-ganesan.com/easily-access-pre-trained-word-embeddings-with-gensim/#.XQCYP9NKhhE)
 - [Notebook demonstrating use of pre-trained embeddings with gensim](Pre-trained%20embeddings.ipynb)
+
 
 
 ## Running the Pre-trained Embeddings Notebook
