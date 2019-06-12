@@ -14,7 +14,7 @@ Links in the first column take you to the subfolder/repository with the source c
 | [Extracting Keywords with TF-IDF and SKLearn (with dataset)](tf-idf) | [tfidf article](http://kavita-ganesan.com/extracting-keywords-from-text-with-tf-idf-and-pythons-scikit-learn/#.W2TlD9hKhhE) | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice)  
 | [Text Preprocessing](text-pre-processing) | [text preprocessing article](http://kavita-ganesan.com/getting-started-with-text-preprocessing/#.XHa4-ZNKhuU) | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
 | [TFIDFTransformer vs. TFIDFVectorizer](tfidftransformer/) | [tfidftransformer and tfidfvectorizer usage article](http://kavita-ganesan.com/how-to-use-tfidftransformer-tfidfvectorizer-and-whats-the-difference/)| notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
-| [Accessing Pre-trained Word Embeddings with Gensim](pre-trained-embeddings/) | | notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
+| [Accessing Pre-trained Word Embeddings with Gensim](pre-trained-embeddings/) |[Pre-trained word embeddings article](http://kavita-ganesan.com/easily-access-pre-trained-word-embeddings-with-gensim/#.XQCYP9NKhhE)| notebook | [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) 
 
 
 # Resources
