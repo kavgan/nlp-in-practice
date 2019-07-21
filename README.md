@@ -23,4 +23,4 @@ Links in the first column take you to the subfolder/repository with the source c
 - If you would like to receive articles via email [subscribe to my mailing list](https://kavita-ganesan.com/subscribe/#.XTThjZNKhgc).
 
 # Contact 
-This repository is maintained by [Kavita Ganesan](https://kavita-ganesan.com/about-me/#.XTTh6ZNKhgc). Connect with me on [LinkedIn]([https://www.linkedin.com/in/kavita-ganesan/]) or [Twitter](https://twitter.com/kav_gan). 
+This repository is maintained by [Kavita Ganesan](https://kavita-ganesan.com/about-me/#.XTTh6ZNKhgc). Connect with me on [LinkedIn](https://www.linkedin.com/in/kavita-ganesan/) or [Twitter](https://twitter.com/kav_gan). 
