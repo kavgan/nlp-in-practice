@@ -8,7 +8,7 @@
 
 Learn how to build your first text classifier using Logistic Regression in Python. 
 
-- [Notebook: Text Classification with Logistic Regression](notebooks/Text Classification with Logistic Regression.ipynb)
+- [Notebook: Text Classification with Logistic Regression](notebooks/Text%20Classification%20with%20Logistic%20Regression.ipynb)
 
 
 
