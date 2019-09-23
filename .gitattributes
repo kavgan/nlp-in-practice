@@ -1,2 +1,2 @@
-text-classification-logreg/data/ filter=lfs diff=lfs merge=lfs -text
-text-classification-logreg/data/news_category_dataset.json filter=lfs diff=lfs merge=lfs -text
+text-classification/data/ filter=lfs diff=lfs merge=lfs -text
+text-classification/data/news_category_dataset.json filter=lfs diff=lfs merge=lfs -text
