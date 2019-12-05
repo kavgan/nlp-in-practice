@@ -11,7 +11,7 @@ In-depth usage examples of scikit's `CountVectorizer`
 git clone <this repo url>
 ```
 
-2. Next, switch to the tfidftransformer directory of this repo.
+2. Next, switch to the CountVectorizer directory of this repo.
 ```
 cd  nlp-in-practice/CountVectorizer
 ```
