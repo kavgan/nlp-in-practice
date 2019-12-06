@@ -2,7 +2,7 @@ In-depth usage examples of scikit's `CountVectorizer`
 
 # Navigate
 - [CountVectorizer Notebook](CountVectorizer.ipynb)
-
+- [CountVectorizer Article](https://kavita-ganesan.com/how-to-use-countvectorizer/#.XeqMhpNKhhE)
 
 # Running the Notebook
 

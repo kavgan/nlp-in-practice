@@ -17,6 +17,8 @@ Links in the first column take you to the subfolder/repository with the source c
 | [TFIDFTransformer vs. TFIDFVectorizer](tfidftransformer/) | [tfidftransformer and tfidfvectorizer usage article](http://kavita-ganesan.com/how-to-use-tfidftransformer-tfidfvectorizer-and-whats-the-difference/)| notebook | How to use TFIDFTransformer and TFIDFVectorizer correctly and the difference between the two and what to use when. 
 | [Accessing Pre-trained Word Embeddings with Gensim](pre-trained-embeddings/) |[Pre-trained word embeddings article](http://kavita-ganesan.com/easily-access-pre-trained-word-embeddings-with-gensim/#.XQCYP9NKhhE)| notebook | How to access pre-trained GloVe and Word2Vec Embeddings using Gensim and an example of how these embeddings can be leveraged for text similarity
 | [Text Classification in Python (with news dataset)](text-classification/) |[Text classification with Logistic Regression article](https://kavita-ganesan.com/news-classifier-with-logistic-regression-in-python/#.XT95_5NKhgc)| notebook | Get started with text classification. Learn how to build and evaluate a text classifier for news classification using Logistic Regression.
+| [CountVectorizer Usage Examples](CountVectorizer/) |[How to Correctly Use CountVectorizer? An In-Depth Look article](https://kavita-ganesan.com/how-to-use-countvectorizer/#.XeqMhpNKhhE)| notebook | Learn how to maximize the use of CountVectorizer such that you are not just computing counts of words, but also preprocessing your text data appropriately as well as extracting additional features from your text dataset.
+
 
 # Notes
 - For more articles, please [see this list](http://kavita-ganesan.com/kavitas-tutorials/#.WvIizNMvyog). 
