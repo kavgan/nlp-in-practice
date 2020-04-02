@@ -1,4 +1,4 @@
-In-depth usage examples of scikit's `CountVectorizer` 
+HashingVectorizer vs. CountVectorizer - When to use which?
 
 # Navigate
 - [HashingVectorizer Notebook](HashingVectorizer.ipynb)
