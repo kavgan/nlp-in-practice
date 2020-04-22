@@ -1,3 +1,3 @@
 # Navigate
 
-[Article](comparison-between-cbow-skipgram-subword)
+[Article](https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword)
