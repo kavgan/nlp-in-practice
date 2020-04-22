@@ -1,0 +1,22 @@
+phrase1,phrase2,similar
+polite staff, rude staff,0
+friendly manager, rude manager,0
+room was huge, large rooms,1
+staff was friendly, very polite manager,1
+bathroom was very dirty, filthy bathroom,1
+clean and tidy rooms,the room was a mess,0
+the views were awesome,the breakfast was nice,0
+what lovely breakfast,friendly staff,0
+would recommend,highly recommended,1
+the manager was rude,staff were arrogant and rude,1
+good breakfast selection,variety of breakfast items,1
+pet friendly hotel,good breakfast selection,0
+the pillows were extremely comfortable,soft comfy pillows,1
+lots of shopping places around, there is a big shopping centre,1
+had a wonderful stay, my stay at the hotel was excellent,1
+very dirty bathroom, lots of shopping,0
+would recommend,very polite manager,0
+good breakfast selection,very dirty bathroom,0
+bed was so comfy,comfortable beds,1
+hot breakfast was nice,they had lovely omelettes,1
+lots of shopping places closeby, plenty of places to shop at in the vicinity,1
