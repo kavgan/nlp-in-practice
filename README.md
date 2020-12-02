@@ -19,6 +19,8 @@ Links in the first column take you to the subfolder/repository with the source c
 | [Text Classification in Python (with news dataset)](text-classification/) |[Text classification with Logistic Regression article](https://kavita-ganesan.com/news-classifier-with-logistic-regression-in-python/#.XT95_5NKhgc)| notebook | Get started with text classification. Learn how to build and evaluate a text classifier for news classification using Logistic Regression.
 | [CountVectorizer Usage Examples](CountVectorizer/) |[How to Correctly Use CountVectorizer? An In-Depth Look article](https://kavita-ganesan.com/how-to-use-countvectorizer/#.XeqMhpNKhhE)| notebook | Learn how to maximize the use of CountVectorizer such that you are not just computing counts of words, but also preprocessing your text data appropriately as well as extracting additional features from your text dataset.
 | [HashingVectorizer Examples](hashingvectorizer/) |[HashingVectorizer Vs. CountVectorizer article](https://kavita-ganesan.com/hashingvectorizer-vs-countvectorizer/#.XeqMhpNKhhP)| notebook | Learn the differences between HashingVectorizer and CountVectorizer and when to use which.
+| [CBOW vs. SkipGram](cbow_skipgram_subword/) |[Word2Vec: A Comparison Between CBOW, SkipGram & SkipGramSI article](https://kavita-ganesan.com/comparison-between-cbow-skipgram-subword/#.X8fgvxNKiso)| notebook | A quick comparison of the three embeddings architecture.
+
 
 
 
